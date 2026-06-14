@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-sinfonia-de-tus-caricias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for La sinfonía de tus caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-sinfonia-de-tus-caricias/) |
+| **Get License** | [Official Music Licensing for La sinfonía de tus caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-sinfonia-de-tus-caricias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Noche oscura en Madrid, tu piel me llama
+> Nena, tú eres el fuego que enciende mi flama
+> Con esa mirada me robas la calma
+> Bailando suave, conectamos el alma
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
