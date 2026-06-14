@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - La sinfonía de tus caricias
+
+This log tracks the cryptographic history and versioning for the song **La sinfonía de tus caricias** (la-sinfonia-de-tus-caricias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T13:46:36.253775 | `v1` | `1e4fd7fa5353863728e9e47336716f9f76ca06d5bcbd2a9b8198ec91862490c3` | `bcfd241e102a9aa655165be9ffae4fb822bb6de7df3e3d740bec1cf254ef6683` | `2026-06-14_la-sinfonia-de-tus-caricias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
